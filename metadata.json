@@ -1,0 +1,10 @@
+{
+  "name": "IntelliAlert",
+  "description": "Personalized actionable alerts for Deaf and Hard-of-Hearing railway commuters.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
